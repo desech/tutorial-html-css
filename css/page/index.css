@@ -1,0 +1,37 @@
+.e0y80nmr {
+  grid-template-columns: auto auto;
+  justify-content: space-between;
+  margin: 30px 60px;
+}
+
+.e0asswpd {
+  align-items: center;
+  column-gap: 40px;
+  font-size: 18px;
+  grid-auto-flow: column;
+}
+
+.e0asswpd > :hover {
+  color: var(--color-482bfdff);
+}
+
+.e0cs06xk {
+  background-color: var(--color-9d30f4ff);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+  color: rgb(255, 255, 255);
+  font-size: 80px;
+  height: 100px;
+  text-align: center;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.e0hwaa07 {
+  color: var(--color-444444ff);
+  font-family: Roboto;
+  line-height: 1.3;
+}
+
+.e0c31chd {
+  width: 24px;
+}
