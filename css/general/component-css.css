@@ -1,0 +1,19 @@
+.subtle-shadow {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px 0px;
+}
+
+.button {
+  align-items: center;
+  background-image: linear-gradient(var(--color-482bfcff) 0%, var(--color-482bfcff) 100%);
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  grid-template-columns: auto auto;
+  justify-self: start;
+  padding: 15px 30px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  animation: 1s ease 0s infinite normal none running pulsate-fwd;
+  background-image: linear-gradient(var(--color-9d30f4ff) 0%, var(--color-9d30f4ff) 100%);
+}
