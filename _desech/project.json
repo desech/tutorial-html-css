@@ -5,13 +5,13 @@
   "responsive": {
     "default": {
       "width": "1366px",
-      "height": "3000px"
+      "height": "4000px"
     },
     "list": [
       {
         "max-width": "1200px",
         "width": "993px",
-        "height": "3000px"
+        "height": "4000px"
       },
       {
         "max-width": "992px",
